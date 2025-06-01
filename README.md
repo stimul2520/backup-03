@@ -46,7 +46,8 @@
    - Резервная копия размещается локально, в директории /tmp/backup
    - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
-[Файл crontab]()
+[Файл crontab](https://github.com/stimul2520/backup-03/blob/3eb7ce6d69ebf7d9e341bb756e4e4e97609d5579/crontab)
+
 ![1](img/11.png)
 ![2](img/21.png)
 ![3](img/31.png)
